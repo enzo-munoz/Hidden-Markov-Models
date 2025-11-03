@@ -63,3 +63,4 @@ Application pratique des HMM à la **reconnaissance d’activités humaines** à
 - Appliquer un HMM à des données réelles (reconnaissance d’activité).
 
 ---
+Other Machine learning projects are visible under the repository machine_learning_projects 
