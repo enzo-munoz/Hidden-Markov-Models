@@ -57,7 +57,7 @@ Application pratique des HMM à la **reconnaissance d’activités humaines** à
 
 ---
 
-## 🎯 Objectif pédagogique
+## 🎯 Objectif
 - Comprendre la structure et le fonctionnement des HMM.  
 - Implémenter les algorithmes d’inférence et d’apprentissage.  
 - Appliquer un HMM à des données réelles (reconnaissance d’activité).
